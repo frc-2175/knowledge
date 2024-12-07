@@ -1,4 +1,4 @@
 ---
-title: "Welcome!"
+title: Welcome!
 ---
-This is the Fighting Calculators knowledge base.
+This is the Fighting Calculators knowledge base!

@@ -1,1 +1,1 @@
-TODO
+The A-Stop is a button which will disable the robot temporarily until Tele-Op starts.

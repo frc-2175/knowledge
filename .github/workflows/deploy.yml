@@ -18,7 +18,7 @@ jobs:
   build:
     runs-on: ubuntu-22.04
     steps:
-      - Name: Copy content to /quartz
+      - name: Copy content to /quartz
         run: cp -r ./content ./quartz/content
       - uses: actions/checkout@v4
         with:

@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🤖 Fighting Calculators Wiki",
+    pageTitle: "Fighting Calculators Wiki",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,

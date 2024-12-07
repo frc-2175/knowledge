@@ -1,3 +1,6 @@
+---
+author: Idrees Ahmad
+---
 This device maintains wireless communication between the [[Driver Station]] and [[Robot]]. Prior to the 2025 season, this consisted of an OpenMesh radio, however, this has now been replaced with the Vivid-Hosting VH-109.
 
 ![[WCP-1538_2048x2048 Medium 1.png]]

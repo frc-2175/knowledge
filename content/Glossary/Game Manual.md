@@ -1,6 +1,6 @@
 The one and only official reference for the rules of FRC.
 
-Every year, *FIRST* releases a new version of the game manual at [[Kickoff]]. The manual contains information about the current game, scoring information, gameplay rules, robot safety rules, robot construction requirements, and tournament rules.
+Every year, *FIRST* releases a new version of the game manual at Kickoff. The manual contains information about the current game, scoring information, gameplay rules, robot safety rules, robot construction requirements, and tournament rules.
 
 All students are expected to read and understand the contents of the game manual.
 

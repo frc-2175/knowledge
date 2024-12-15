@@ -1,7 +1,5 @@
-TODO
+A version control program designed for code. It allows multiple programmers to collaborate on a single codebase, and for independent changes to be merged together into a single history.
 
-TEST CONTENT
+Git and GitHub are different. Git is the program that runs on your computer to manage versions of your code and allow you to view older changes. GitHub is an online service that hosts Git repositories, allowing multiple developers to sync their changes with each other.
 
-You can update these files locally, and they automatically save. 
-
-We recommend installing the Git plugin for Obsidian, which you can install from Obsidian's settings. (TODO: more detailed)
+All of our team's code, and this knowledge base, can be found on [our GitHub page](https://github.com/frc-2175).

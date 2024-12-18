@@ -1,1 +1,0 @@
-The A-Stop is a physical button which will disable the robot temporarily until the [[Teleoperated Period (Teleop)]] starts.

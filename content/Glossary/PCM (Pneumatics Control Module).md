@@ -1,6 +1,6 @@
 A specialized board dedicated to controlling [[Pneumatics|pneumatic]] components on a robot—that is, components powered by compressed air.
 
-![[Pasted image 20241206124200.png]]
+![[PCM.png]]
 
 The PCM serves two functions:
 

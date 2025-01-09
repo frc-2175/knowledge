@@ -1,6 +1,6 @@
 A light that indicates the robot's current status to observers. It is a critical safety feature that informs observers when the robot is active.
 
-![[Pasted image 20241206132930.png]]
+![[SignalLight.png]]
 
 The RSL may be in one of three states:
 

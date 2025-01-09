@@ -2,6 +2,6 @@ The A-Stop is a physical button which will disable the robot temporarily until t
 
 As of 2024, the A-Stop button at competition is red and looks like this:
 
-![[Pasted image 20241217183900.png]]
+![[A-Stop.png]]
 
 Not to be confused with the [[E-Stop (Emergency Stop)]] button.

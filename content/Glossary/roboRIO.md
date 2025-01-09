@@ -1,6 +1,6 @@
 The main robot controller used on all FRC robots. Its purpose is to run our robot code and send control signals to all devices on the robot.
 
-![[Pasted image 20241206122942.png]]
+![[roboRIO2.png]]
 
 It connects to the following list of devices (which is not exhaustive):
 

@@ -1,6 +1,6 @@
 A gyro and IMU (inertial measurement unit) that mounts directly to the [[roboRIO]].
 
-![[Pasted image 20241206135931.png]]
+![[navX2.png]]
 
 The navX combines a gyroscope, accelerometer, and compass into a single highly-accurate sensor. Its primary use is providing a stable and high-quality measurement of the robot's orientation, which is useful for [[Swerve Drive|swerve drive]] and [[Autonomous Period|autonomous]].
 

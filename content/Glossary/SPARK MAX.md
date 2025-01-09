@@ -1,6 +1,6 @@
 A motor controller manufactured by [[REV Robotics]] that can control both brushed and brushless motors.
 
-![[Pasted image 20241206134402.png]]
+![[SparkMax.png]]
 
 The SPARK MAX is most commonly used to control the [[NEO]] and [[NEO 550]] brushless motors. It can also control brushed DC motors such as the [[CIM]] and the [[775pro]].
 

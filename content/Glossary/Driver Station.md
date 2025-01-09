@@ -1,6 +1,6 @@
 The program used to [[Enabled & Disabled|enable]], disable, and control a robot. We also often use the term "driver station" to refer to the computer running the Driver Station program.
 
-![[Pasted image 20241206210228.png]]
+![[DriverStation.png]]
 
 The Driver Station program sends joystick information to the robot for [[Teleoperated Period (Teleop)|teleoperated]] control, and collects logs and metrics from the robot, such as the robot's [[Battery|battery]] level.
 
